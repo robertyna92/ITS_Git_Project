@@ -4,4 +4,4 @@ altre modifiche
 
 queste modifiche sono state fatte sul branch MioDevBranch
 
-queste modigiche sono state fatte su gitHub
+queste modigiche sono state fatte su gitHub in remoto
